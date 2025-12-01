@@ -1,6 +1,6 @@
 **🏆 Hackathon Journey — DATANYX 2025**
-MedTech Edition — MJCET, Hyderabad
-
+**MedTech Edition — MJCET, Hyderabad
+**
 Our team built this project during the DATANYX 2025 – 24-Hour MedTech Hackathon, hosted at Muffakham Jah College of Engineering & Technology (MJCET), Hyderabad. With a mission to contribute to data-driven healthcare innovation, we designed a complete AI-powered Immunodeficiency Gene Expression Analyzer capable of analyzing patient genomics, visualizing molecular patterns, and generating doctor-style diagnostic reports.
 
 What began as a raw idea quickly evolved into a functional MedTech prototype — developed under extreme time constraints, continuous debugging, and a drive to create something clinically meaningful.
@@ -195,3 +195,4 @@ MIT License
 
 
 More advanced LLMs for deeper biological reasoning
+
