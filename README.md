@@ -60,7 +60,7 @@ Cosine Similarity ML techniques
 
 Gene Expression Dataset (GSE64456 – preprocessed)
 
-📂 Project Structure
+📂 **Project Structure**
 DATANYX/
 │── app.py                   # Main Streamlit application
 │── analyze_data.py          # Dataset preprocessing + PCA + clustering
@@ -72,7 +72,7 @@ DATANYX/
 │── README.md                # Project documentation
 
 
-⭐ Why This Project Stands Out
+**⭐ Why This Project Stands Out**
 
 Full ML pipeline
 
@@ -88,11 +88,11 @@ Professional, clean-looking UI
 
 Perfect for hackathons & research portfolios
 
-🤝 Contributing
+**🤝 Contributing**
 
 Feel free to submit Pull Requests, report issues, or suggest new features!
 
-📜 License
-
+**📜 License**
 
 MIT License
+
