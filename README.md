@@ -1,4 +1,4 @@
-🧬 Immunodeficiency Gene Expression Analyzer
+🧬 **Immunodeficiency Gene Expression Analyzer**
 
 A powerful Streamlit-based AI tool that analyzes patient gene expression profiles, identifies immunodeficiency patterns, visualizes top genes, compares against known patient clusters, and generates medical-style PDF reports.
 
@@ -20,7 +20,7 @@ PDF Report Generation
 
 and an Interactive Web Dashboard (Streamlit)
 
-🚀 Features
+**🚀 Features**
 
 📤 Upload patient gene expression files
 
@@ -40,7 +40,7 @@ and an Interactive Web Dashboard (Streamlit)
 
 ⚡ Fast, accurate, and hackathon-ready
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Python
 
@@ -71,61 +71,6 @@ DATANYX/
 │── Heatmap_top50.png        # Heatmap visualization output
 │── README.md                # Project documentation
 
-🧪 How to Run the Project
-1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-2. Create Virtual Environment
-python -m venv venv
-
-3. Activate Virtual Environment
-
-Windows:
-
-venv\Scripts\activate
-
-
-Mac/Linux:
-
-source venv/bin/activate
-
-4. Install Dependencies
-pip install -r requirements.txt
-
-
-(If you want I can generate the full requirements.txt for you.)
-
-🎯 Running the Dashboard
-streamlit run app.py
-
-
-Open browser →
-👉 http://localhost:8501/
-
-📤 Uploading Gene Expression CSV
-
-Your CSV must follow this format:
-
-Gene	GSMxxxx1	GSMxxxx2	...
-ILMN_12345	120	240	...
-ILMN_54321	560	180	...
-
-If needed, you can use the provided patient_sample.csv.
-
-📄 PDF Report
-
-The system generates a downloadable clinical-style PDF summarizing:
-
-Predicted cluster
-
-Immune dysfunction risk score
-
-Closest database patient
-
-Gene activity summary
-
-Perfect for doctors, researchers, or hackathon demo judges.
 
 ⭐ Why This Project Stands Out
 
@@ -148,5 +93,6 @@ Perfect for hackathons & research portfolios
 Feel free to submit Pull Requests, report issues, or suggest new features!
 
 📜 License
+
 
 MIT License
