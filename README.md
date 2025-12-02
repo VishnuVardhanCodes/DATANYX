@@ -176,7 +176,7 @@ This project showcases how ML + LLMs can assist in biomedical diagnostics, reduc
 We built this project not just to win a hackathon — but to explore how next-generation AI can support real-world clinical genomics.
 The final solution forms a strong foundation that can be extended into:
 
-Larger datasets
+**Larger datasets**
 
 Immunological subtype classification
 
@@ -195,7 +195,6 @@ MIT License
 
 
 
-More advanced LLMs for deeper biological reasoning
 
 
 
