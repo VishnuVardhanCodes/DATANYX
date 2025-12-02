@@ -26,6 +26,7 @@ A fully interactive Streamlit dashboard for ease of use
 This makes the tool useful for clinical researchers, geneticists, bioinformatics teams, and hackathon evaluators.
 
 **🌟 Why This Project Was Unique at DATANYX 2025**
+
 During the hackathon, most teams focused on broad data analytics.
 We specifically targeted healthcare genomics, a challenging but impactful domain.
 
@@ -39,18 +40,18 @@ We implemented machine learning, PCA, clustering, variability analysis, and simi
 
 To enrich the medical interpretability of results, we integrated:
 
-Gemini API (Google AI) for generating detailed clinical insights, gene dysregulation summaries, and final diagnosis narratives.
+**Gemini API (Google AI)** for generating detailed clinical insights, gene dysregulation summaries, and final diagnosis narratives.
 
-TinyLLaMA models for offline research summarization and cross-checking biological context.
+**TinyLLaMA models** for offline research summarization and cross-checking biological context.
 
 This created a hybrid system capable of both computation and interpretation.
 
-✔ True End-to-End MedTech Workflow
+**✔ True End-to-End MedTech Workflow**
 
 From raw CSV data → ML pipeline → visualization → interpretation → final medical PDF.
 Every step was automated and built within the hackathon timeframe.
 
-✔ Clean, Intuitive Streamlit Interface
+**✔ Clean, Intuitive Streamlit Interface**
 
 Even under a 24-hour sprint, the UI was made polished and evaluator-friendly with:
 
@@ -195,5 +196,6 @@ MIT License
 
 
 More advanced LLMs for deeper biological reasoning
+
 
 
